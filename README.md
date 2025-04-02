@@ -1,3 +1,6 @@
+# MODDED B&W COLORWAY FOR SWITCH OLED MODEL
+Theme injector WILL not work, use the Themezer online tool, make sure to use common.json unless you want a huge white bar across your profile icon
+
 *Nov 14th 2024*
 
 **Maintaining this project proves to be an utter chaos due to its poor and convoluted structure, so I decided to drop support altogether and archive this repository. Don't expect any further updates. All themes should be still working as of FW 19.0.0.**
@@ -58,10 +61,6 @@ Layouts listed here use 1:1 game icons. I don't plan on implementing vertical ic
 ## Quick showcase
 
 ![Preview 1](./screenshots/preview1.png)
-
-![Preview 1](./screenshots/preview2.png)
-
-![Preview 1](./screenshots/preview3.png)
 
 ## Theme editing
 

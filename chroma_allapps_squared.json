@@ -25,10 +25,10 @@
                             "type": 1
                         }
                     ],
-                    "ColorTL": "FF080808",
-                    "ColorTR": "FF080808",
-                    "ColorBL": "FF080808",
-                    "ColorBR": "FF080808"
+                    "ColorTL": "FF000000",
+                    "ColorTR": "FF000000",
+                    "ColorBL": "FF000000",
+                    "ColorBR": "FF000000"
                 }
             ],
             "AddGroups": [

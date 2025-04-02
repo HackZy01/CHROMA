@@ -29,10 +29,10 @@
                             "type": 1
                         }
                     ],
-                    "ColorTL": "FF030303",
-                    "ColorTR": "FF030303",
-                    "ColorBL": "FF030303",
-                    "ColorBR": "FF030303"
+                    "ColorTL": "FF000000",
+                    "ColorTR": "FF000000",
+                    "ColorBL": "FF000000",
+                    "ColorBR": "FF000000"
                 }
             ]
         },

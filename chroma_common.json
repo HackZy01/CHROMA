@@ -161,12 +161,12 @@
                 {
                     "MaterialName": "P_Main",
                     "ForegroundColor": "00101010",
-                    "BackgroundColor": "FF101010"
+                    "BackgroundColor": "FF000000"
                 },
                 {
                     "MaterialName": "P_Grow",
                     "ForegroundColor": "00101010",
-                    "BackgroundColor": "FF101010"
+                    "BackgroundColor": "FF000000"
                 }
             ]
         },
