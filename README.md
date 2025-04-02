@@ -1,13 +1,7 @@
 # MODDED B&W COLORWAY FOR SWITCH OLED MODEL
 Theme injector WILL not work, use the Themezer online tool, make sure to use common.json unless you want a huge white bar across your profile icon
 
-*Nov 14th 2024*
-
-**Maintaining this project proves to be an utter chaos due to its poor and convoluted structure, so I decided to drop support altogether and archive this repository. Don't expect any further updates. All themes should be still working as of FW 19.0.0.**
-
-However, I'm considering putting together a theme creation tool revolving around CHROMA's layouts that would enable much more modularity and customization on the user's end. Not only would it make things way easier to maintain by not relying on individual themes for every color scheme, it would also allow for proper source control. No ETA whatsoever, but stay tuned.
-
----
+-----------------
 
 # CHROMA, sleek themes for Nintendo Switch
 
@@ -23,40 +17,12 @@ Contributors are always welcome, so feel free to fork this repository if you wan
 
 **Layout variants (base layouts)**
 
-Layouts listed here use 1:1 game icons. I don't plan on implementing vertical icons.
-
-- **Default:** slightly inspired by the PS5 layout, icons are rounded and the highlighted game appears as a card. This layout leaves enough room to put a custom background image.
-- **Default large icons:** same as right above with larger icons.
-- **Default w/ sidebar for applet icons**
-- **Compact rounded:** rounded icons. When a game is highlighted, its label overlaps the game's image.
 - **Regular squared:** big squared icons. The focus animation when a game is highlighted is similar to what can be seen in SteamOS' Big Picture Mode.
 - **Regular rounded:** same as right above but icons are rounded.
-- **Cards:** similar to the default layout, but the games row is symmetrically aligned with the highlighted card, and icons are squared.
-- **Cards alt rounded:** another take to the cards layout, rounded elements and the game's label is below the game's icon.
 
 **Color schemes**
 
 - **B&W** (base color scheme)
-- **Terra:** earthy colors inspired by Monokai: light green, brown and hints of pink.
-- **Terra Mint:** less vibrant tones than Terra with grayish brown, mint green and hints of beige.
-- **Aqua:** aquamarine and deep blue colors.
-  - **Aqua Breeze:** alt version with gradients and improves overall color consistency.
-- **Murasaki:** light purple with hints of beige and pale orange.
-- **Neo Famicom:** gray tones and colored buttons inspired by the SNES console.
-- **Red Wine:** scarlet tones with some gradients.
-
-- (only home screen & player select) **Famicom:** wine red and beige colors, inspired by the Famicom console. Uses the default w/ sidebar layout.
-
-## Download on Themezer
-
-- [CHROMA default (B&W)](https://themezer.net/packs/CHROMA-682)
-- [CHROMA Neo Famicom Ed.](https://themezer.net/packs/CHROMA-Neo-Famicom-Edition-683)
-- [CHROMA Terra Ed.](https://themezer.net/packs/CHROMA-Terra-Edition-684)
-- [CHROMA Terra Mint Ed.](https://themezer.net/packs/CHROMA-Terra-Mint-Edition-689)
-- [CHROMA Aqua Ed.](https://themezer.net/packs/CHROMA-Aqua-Edition-685)
-  - [CHROMA Aqua Breeze Ed.](https://themezer.net/packs/CHROMA-Aqua-Breeze-Edition-68e) (+ gradients & some fine-tuning)
-- [CHROMA Murasaki Ed.](https://themezer.net/packs/CHROMA-Murasaki-Edition-686)
-- [CHROMA Red Wine Ed.](https://themezer.net/packs/CHROMA-Red-Wine-Edition-687)
 
 ## Quick showcase
 
@@ -95,7 +61,7 @@ The versioning is independent for each applet. Sorry for the mess.
 ### v1.0 - initial/shared release (all applets)
 
 ## Credits
-
+[Original Theme](https://github.com/Kalyvara/NXTheme-CHROMA)
 - Atmosphere icon in CHROMA Terra Edition by [dh park](https://thenounproject.com/icon/leaf-5958752/)
 - Atmosphere icon in CHROMA Aqua Edition by [Viktor Vorobyev](https://thenounproject.com/icon/water-drop-504908/)
 - Atmosphere icon in CHROMA Murasaki Edition by [Cuputo](https://thenounproject.com/icon/book-4146408/)
