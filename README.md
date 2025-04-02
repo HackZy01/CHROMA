@@ -1,5 +1,5 @@
 # MODDED B&W COLORWAY FOR SWITCH OLED MODEL
-Theme injector WILL not work, use the Themezer online tool, make sure to use common.json unless you want a huge white bar across your profile icon
+Theme injector WILL NOT work and will create a file too small, use the Themezer online tool, make sure to use common.json unless you want a huge white bar across your profile icon `NXTHEME must be >=341KB for it to be valid`
 
 -----------------
 
@@ -36,35 +36,7 @@ Now, please note that CHROMA involves very intricate layouts as they massively r
 
 **Credits would be greatly appreciated if you're planning to publicly share your edited theme.**
 
-## Known issues
-
-- In the sidebar layout, the games scrolling will behave weirdly if the sidebar is accessed through some particular ways. It doesn't affect the navigation that much and there's a chance you won't even notice. This issue actually arose in Unison R as well, and unfortunately I have no solution to prevent this behavior.
-
-## Changelog
-
-The versioning is independent for each applet. Sorry for the mess.
-
-### Home screen
-
-#### v1.1
-
-- **Fixed Atmosphere crashing when uninstalling a game**
-- **+2 layouts: default large icons, cards alt rounded**
-
-### Settings
-
-#### v1.1
-
-- **New generalized layout**
-  - styled "Manage Software" tab
-
-### v1.0 - initial/shared release (all applets)
-
 ## Credits
 [Original Theme](https://github.com/Kalyvara/NXTheme-CHROMA)
-- Atmosphere icon in CHROMA Terra Edition by [dh park](https://thenounproject.com/icon/leaf-5958752/)
-- Atmosphere icon in CHROMA Aqua Edition by [Viktor Vorobyev](https://thenounproject.com/icon/water-drop-504908/)
-- Atmosphere icon in CHROMA Murasaki Edition by [Cuputo](https://thenounproject.com/icon/book-4146408/)
 - Atmosphere icon in all other variants by u/Quat0rz
-- Switch controller SVG in Neo Famicom's lockscreen by [Chad Remsing](https://thenounproject.com/icon/switch-charging-controller-930118/)
 - Special thanks to [LayoutDocs](https://layoutdocs.themezer.net/) contributors
